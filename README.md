@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am a second year PhD student working on theoretical analysis of blockchain and distributed consensus :)
+Really want to be a good engineer!
+
+Fun fact: I have a cute cat!
 <!--
 **CaylaCao/CaylaCao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
